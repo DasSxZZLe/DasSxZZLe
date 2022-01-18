@@ -1,5 +1,5 @@
 - 👋 Hey Boys and Girls, I’m DasSxZZLe and I'm from Germany
-- 👀 I'm interested in Python and I'm learning how to code sth.
+- 👀 I'm interested in Python and I'm learning how to code sth with Python.
 - 🌱 As I said I'm completly new and have nearly no experience in coding.
 - 📫 If u need something or if u can give me tips, u can reach me on Discord: DasSx_ZZ_Le#1985
 
